@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/ThaiHa1510/laravel-5-redis-and-socket.io#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "predis": "^1.1.3",
     "redis": "^3.0.2",
     "socket.io": "^2.3.0"
